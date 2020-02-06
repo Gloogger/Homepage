@@ -1,1 +1,1 @@
-This repository is for the web page "Modern Robotics Course Notes", for more information please visit the page at "https://muchensun.github.io/ModernRoboticsCourseNotes/".
+This repository is for the web page "BlahBlah", for more information please visit the page at "webpage_link".
