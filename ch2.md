@@ -17,7 +17,11 @@ is_project_page: false
 **blah**, **blah**, and **blah**r.
 
 ***
-hadw
+For a rigid body in $n$-dimensional space, its dof is $m$, then we have:
+
+$$
+m = \sum_{i=0}^{n} i = \frac{1}{2} n (n-1)
+$$
 ***
 
 <p style="text-align:center;">
