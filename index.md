@@ -10,7 +10,7 @@ Salvete!
 ## **Table of Contents**
 
 * **Kapitel 1**
-* [**Kapitel 2**](ch2.html)
+* [**Kapitel 2**](myChap2.html)
 
 
 
