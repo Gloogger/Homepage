@@ -17,10 +17,10 @@ is_project_page: false
 **blah**, **blah**, and **blah**r.
 
 ***
-For a rigid body in $n$-dimensional space, its dof is $m$, then we have:
+The omnipotent math shows that:
 
 $$
-m = \sum_{i=0}^{n} i = \frac{1}{2} n (n-1)
+1+1 = 2
 $$
 ***
 
