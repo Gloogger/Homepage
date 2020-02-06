@@ -9,8 +9,8 @@ Salvete!
 
 ## **Table of Contents**
 
-* **Chapter 1: Preview**
-* [**Chapter 2: Configuration Space**](ch2.html)
+* **Kapitel 1**
+* [**Kapitel 2**](ch2.html)
 
 
 
