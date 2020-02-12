@@ -14,7 +14,6 @@ Salvete!
   * [**Modern Robotics**](https://gloogger.github.io/Modern_Robotics_Notes/)
 * **EdX**
 
-
 ### Translation Projects
 * **Coursera Subtitles**
 * **Novels**
@@ -24,6 +23,7 @@ Salvete!
   * **Zahnweh**
   * **Vorspruch**
 
+### Reaading Notes
 
 
 
