@@ -1,16 +1,29 @@
 ---
 layout: default
 mathjax: true
-title: 'myTitle'
-description: BlahBlah
+title: 'Gloogger's Homepage'
+description: Index and backup for some projects
 ---
 Salvete!
 
 
 ## **Table of Contents**
 
-* **Kapitel 1**
-* [**Kapitel 2**](myChap2.html)
+### MOOC Notes
+* **Coursera**
+  * [**Modern Robotics**](https://gloogger.github.io/Modern_Robotics_Notes/)
+* **EdX**
+
+
+### Translation Projects
+* **Coursera Subtitles**
+* **Novels**
+  * [**1632(Ongoing)**](https://paratranz.cn/projects/309)
+* **Lyrics**
+  * **Combattimento di Tancredi e Clorinda**
+  * **Zahnweh**
+  * **Vorspruch**
+
 
 
 
