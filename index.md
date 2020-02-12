@@ -9,10 +9,11 @@ Salvete!
 
 ## **Table of Contents**
 
-### MOOC Notes
-* **Coursera**
+### Interesting Courses
+* **MOOC**
   * [**Modern Robotics**](https://gloogger.github.io/Modern_Robotics_Notes/)
-* **EdX**
+* **UNSW**
+  * ARTS
 
 ### Translation Projects
 * **Coursera Subtitles**
