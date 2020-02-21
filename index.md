@@ -26,7 +26,7 @@ Salvete!
 
 ### Notes
 #### Reading
-#### Cooking
+* [**Cooking Notes**](https://gloogger.github.io/CookingNotes/)
 
 
 
