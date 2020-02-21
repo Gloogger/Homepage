@@ -19,12 +19,12 @@ Salvete!
 * **Coursera Subtitles**
 * **Novels**
   * [**1632(Ongoing)**](https://paratranz.cn/projects/309)
-* **Lyrics**
-  * **Combattimento di Tancredi e Clorinda**
-  * **Zahnweh**
-  * **Vorspruch**
+* [**Lyrics**](https://gloogger.github.io/Lyrics)
+  * [**Combattimento di Tancredi e Clorinda**](https://gloogger.github.io/Lyrics/combattimento_di_tancredi_e_clorinda.html)
+  * [**Zahnweh**](https://gloogger.github.io/Lyrics/Zahnweh.html)
 
-### Reaading Notes
+
+### Reading Notes
 
 
 
