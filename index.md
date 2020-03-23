@@ -11,8 +11,8 @@ Salvete!
 
 ### Interesting Courses
 * **MOOC**
-  * [**Modern Robotics**](https://gloogger.github.io/Modern_Robotics_Notes/)
-  * [**Philosophy of Sciences (2019 Autumn Shanxi University)**](https://gloogger.github.io/PhilosophyOfSciences/)
+  * [**Modern Robotics (Northwestern University on Coursera)**](https://gloogger.github.io/Modern_Robotics_Notes/)
+  * [**Philosophy of Sciences (2019 Autumn Shanxi University on XueTangX)**](https://gloogger.github.io/PhilosophyOfSciences/)
 * **UNSW**
   * ARTS
 
