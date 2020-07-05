@@ -29,7 +29,7 @@ Salvete!
 #### Reading
 * [**Cooking Notes**](https://gloogger.github.io/CookingNotes/)
 #### Speech
-* [**王德峰-2019年重读《资本论》b站版笔录及笔记**]
+* [**王德峰-2019年重读《资本论》b站版笔录及笔记**](https://gloogger.github.io/Homepage/Speech_Note/WDF2019Das_Kapital.html)
 
 
 
