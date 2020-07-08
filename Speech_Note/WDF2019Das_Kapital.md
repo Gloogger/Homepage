@@ -10,7 +10,7 @@ is_project_page: false
 <button type="button" onclick="window.location.href='https://gloogger.github.io/Homepage/index.html';">Homepage</button>
 </p>
 
-#### b站[视频链接](https://www.bilibili.com/video/BV1ET4y1J7kH)
+### b站[视频链接](https://www.bilibili.com/video/BV1ET4y1J7kH)
 
 # Table of Content
 * [P01：《资本论》的副标题不能忘——基于事实可能就是脱离事实](#part-1)
@@ -41,7 +41,7 @@ is_project_page: false
 
 <p style="text-align:center;">
 <button type="button" onclick="window.location.href='#top';">Back To Top</button>
-<p>
+</p>
 
 
 ***
