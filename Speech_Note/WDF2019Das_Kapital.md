@@ -876,6 +876,26 @@ power |
 ## Part 26
 ### 获得成果的方式未必是保存成果的方式
 
+<p style="text-align:center;">
+<button type="button" onclick="window.location.href='#top';">Back To Top</button>
+</p>
+
+***
+
+## Part 27
+### 三十年为一世，而道更
+
+施工中 🚧
+
+<p style="text-align:center;">
+<button type="button" onclick="window.location.href='#top';">Back To Top</button>
+</p>
+
+***
+
+## Part 28
+### 利益多元化下的法制——用《人民的名义》情节举例
+
 施工中 🚧
 
 ***
