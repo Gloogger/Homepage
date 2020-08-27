@@ -14,13 +14,21 @@ is_project_page: false
 # Language Development
 <img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/cover.png width = "350">
 
+## Chapter 4
+<img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Chapter_4_Hoff.png>
 
-***
-The omnipotent math shows that:
+## Chapter 5
+<img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Chapter_5_Hoff.png>
 
-$$
-1+1 = 2
-$$
+## Chapter 6
+<img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Chapter_6_Hoff.png>
+
+## Chapter 7
+<img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Chapter_7_Hoff.png>
+
+## Chapter 9
+<img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Chapter_9_Hoff.png>
+
 ***
 
 <p style="text-align:center;">
