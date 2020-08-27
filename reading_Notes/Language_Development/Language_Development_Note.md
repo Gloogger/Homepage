@@ -12,7 +12,7 @@ is_project_page: false
 </p>
 
 # Language Development
-![Cover Page](https://gloogger.github.io/Homepage/reading_Notes/Language_Development/cover.png width = "100")
+<img src=https://gloogger.github.io/Homepage/reading_Notes/Language_Development/cover.png width = "100">
 
 
 ***
