@@ -8,7 +8,7 @@ is_project_page: false
 
 
 <p style="text-align:center;">
-<button type="button" onclick="window.location.href='index.html';">Homepage</button>
+<button type="button" onclick="window.location.href='https://gloogger.github.io/Homepage/index.html';">Homepage</button>
 </p>
 
 # Language Development
