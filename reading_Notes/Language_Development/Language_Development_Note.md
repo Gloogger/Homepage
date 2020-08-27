@@ -11,8 +11,9 @@ is_project_page: false
 <button type="button" onclick="window.location.href='index.html';">Homepage</button>
 </p>
 
-## blah
-**blah**, **blah**, and **blah**r.
+# Language Development
+![Cover Page](https://gloogger.github.io/Homepage/reading_Notes/Language_Development/cover.png)
+
 
 ***
 The omnipotent math shows that:
