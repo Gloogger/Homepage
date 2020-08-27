@@ -7,16 +7,16 @@ description: Index and backup for some projects
 Salvete!
 
 
-## **Table of Contents**
+# **Table of Contents**
 
-### Interesting Courses
+## Interesting Courses
 * **MOOC**
   * [**Modern Robotics (Northwestern University on Coursera)**](https://gloogger.github.io/Modern_Robotics_Notes/)
   * [**Philosophy of Sciences (2019 Autumn Shanxi University on XueTangX)**](https://gloogger.github.io/PhilosophyOfSciences/)
 * **UNSW**
   * ARTS
 
-### Translation Projects
+## Translation Projects
 * **Coursera Subtitles**
 * **Novels**
   * [**1632(Ongoing)**](https://paratranz.cn/projects/309)
@@ -25,10 +25,14 @@ Salvete!
   * [**Zahnweh**](https://gloogger.github.io/Lyrics/Zahnweh.html)
 
 
-### Notes
+## Notes
 * [**Cooking Notes**](https://gloogger.github.io/CookingNotes/)
-#### Speech
+
+### Speeches
+
 * [**王德峰-2019年重读《资本论》b站版笔录及笔记**](https://gloogger.github.io/Homepage/Speech_Note/WDF2019Das_Kapital.html)
 
+### Readings
 
+* [**Language Development**]() - Erika Hoff
 
