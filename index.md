@@ -34,5 +34,5 @@ Salvete!
 
 ### Readings
 
-* [**Language Development**]() - Erika Hoff
+* [**Language Development**](https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Language_Development_Note.html) - Erika Hoff
 
