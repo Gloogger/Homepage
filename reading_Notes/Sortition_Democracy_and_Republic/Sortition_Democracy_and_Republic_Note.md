@@ -16,6 +16,10 @@ is_project_page: false
     <img src="https://gloogger.github.io/Homepage/reading_Notes/Sortition_Democracy_and_Republic/cover.jpg" width = "350">
 </p>
 
+## Part 1
+<p align="center">
+    <img src="https://gloogger.github.io/Homepage/reading_Notes/Sortition_Democracy_and_Republic/雅典的皿煮.png">
+</p>
 
 <p style="text-align:center;">
 <button type="button" onclick="window.location.href='#top';">Back To Top</button>
