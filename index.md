@@ -35,4 +35,5 @@ Salvete!
 ### Readings
 
 * [**Language Development**](https://gloogger.github.io/Homepage/reading_Notes/Language_Development/Language_Development_Note.html) - Erika Hoff
+* [**抽签与民主、共和:从雅典到威尼斯**](https://gloogger.github.io/Homepage/reading_Notes/Sortition_Democracy_and_Republic/Sortition_Democracy_and_Republic_Note.md) - 王绍光
 
