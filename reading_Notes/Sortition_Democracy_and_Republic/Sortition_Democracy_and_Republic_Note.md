@@ -20,6 +20,7 @@ is_project_page: false
 <p align="center">
     <img src="https://gloogger.github.io/Homepage/reading_Notes/Sortition_Democracy_and_Republic/雅典的皿煮.png">
 </p>
+[TextBundle](https://gloogger.github.io/Homepage/reading_Notes/Sortition_Democracy_and_Republic/雅典的皿煮.7z)
 
 <p style="text-align:center;">
 <button type="button" onclick="window.location.href='#top';">Back To Top</button>
